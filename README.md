@@ -1,2 +1,2 @@
-# Simple-microphone-preamplifier
-It is the upload of my microphone preamplifier project which i have made in 2024.
+# Microphone preamplifier using F4558 operational amplifier
+For more information, see the mic-amp-report.pdf file.
