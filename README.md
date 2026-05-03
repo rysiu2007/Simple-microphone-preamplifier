@@ -12,8 +12,7 @@ This repository contains the design and documentation for a high-gain microphone
 ## 🖼 Schematic Overview
 The design uses both halves of the F4558 (U1A and U1B) to provide dual-channel processing. 
 
-![Microphone Preamplifier Schematic](schematic.png) 
-*(Note: Upload your image to the repo and name it schematic.png for this to show up!)*
+![Microphone Preamplifier PCB](Schematics/layout_top.png) 
 
 ## 📂 Project Files
 *   **[mic-amp-report.pdf](mic-amp-report.pdf)**: Full engineering report, including frequency response curves and BOM.
